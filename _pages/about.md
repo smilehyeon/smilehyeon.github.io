@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 excerpt: "안녕하세요 반갑습니다:)"
 layout: single
-permalink: /about/
+author_profile: true
 # layouts_gallery:
 #   - url: /assets/images/mm-layout-splash.png
 #     image_path: /assets/images/mm-layout-splash.png
