@@ -27,7 +27,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "algorithm" %}
-                        <li><a href="/categories/algorithm" class="">알고리즘 구현 (with C++) ({{category[1].size}})</a></li>
+                        <li><a href="/categories/algorithm" class="">알고리즘 구현({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -35,6 +35,13 @@
                 {% for category in site.categories %}
                     {% if category[0] == "script" %}
                         <li><a href="/categories/script" class="">Script({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "cloneProject" %}
+                        <li><a href="/categories/script" class="">cloneProject({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
