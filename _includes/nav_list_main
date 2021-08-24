@@ -41,7 +41,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "cloneProject" %}
-                        <li><a href="/categories/script" class="">cloneProject({{category[1].size}})</a></li>
+                        <li><a href="/categories/cloneProject" class="">cloneProject({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
