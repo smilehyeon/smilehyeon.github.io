@@ -1,11 +1,11 @@
 ---
-title: "알고리즘"
+title: "etc"
 layout: archive
-permalink: categories/cloneProject
+permalink: categories/etc
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.cloneProject %}
+{% assign posts = site.categories.etc %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
