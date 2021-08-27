@@ -1,5 +1,5 @@
 ---
-title: "알고리즘"
+title: "CloneProject"
 layout: archive
 permalink: categories/cloneProject
 author_profile: true
