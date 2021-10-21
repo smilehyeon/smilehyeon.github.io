@@ -27,6 +27,6 @@ author_profile: true
 잘 부탁드립니다 ㅎㅎ  
 <br><br><br>
 볼 건 없지만 저희 강쥐도 보고가세요...  
-![이미지1](/assets/images/eggplant.JPG)  
-![이미지2](/assets/images/eggplant2.JPG)  
-![이미지3](/assets/images/eggplant3.JPG)  
+![이미지1](/assets/images/profile/eggplant.jpg)  
+![이미지2](/assets/images/profile/eggplant2.jpg)   
+![이미지3](/assets/images/profile/eggplant3.jpg)   
