@@ -1,6 +1,6 @@
 ---
-title : "자바스크립트 알고리즘 문제풀이 - 2"
-excerpt : "삼각형 만들기"
+title : "자바스크립트 알고리즘 문제풀이 - 3"
+excerpt : "연필 개수"
 categories : 
     - codingTest
 tags : 
