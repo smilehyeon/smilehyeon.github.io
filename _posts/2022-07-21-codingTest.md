@@ -32,7 +32,7 @@ Lst's GO...!
 내가 푼 내용  
 
 ```
-function mySolution(a){
+function mySolution(arr){
     let answer = new Object;
     let min=Number.MAX_SAFE_INTEGER, sum=0;
 
@@ -56,7 +56,7 @@ function mySolution(a){
 정답코드를 보자...!   
 
 ```  
-function solution(n){
+function solution(arr){
     let answer = new Object;
     let sum=0, min=1000;
     for(let x of arr){

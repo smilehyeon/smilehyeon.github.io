@@ -32,7 +32,7 @@ es6에서 새로 추가된 문법인 Spread operator를 사용하였다.
 내가 푼 내용  
 
 ```
-function mySolution(a){
+function mySolution(arr){
     let answer = Math.min(...arr);
     return answer;
 }
@@ -43,7 +43,7 @@ function mySolution(a){
 정답코드를 보자...!   
 
 ```  
-function solution(n){
+function solution(arr){
     let answer, min=Number.MAX_SAFE_INTEGER;
     for(let i=0; i<arr.length; i++){
         if(arr[i]<min) min=arr[i];
