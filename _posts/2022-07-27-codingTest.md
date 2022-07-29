@@ -1,6 +1,6 @@
 ---
-title : "자바스크립트 알고리즘 문제풀이 - 6"
-excerpt : "홀수"
+title : "자바스크립트 알고리즘 문제풀이 - 9"
+excerpt : "A를 #으로"
 categories : 
     - codingTest
 tags : 
@@ -33,7 +33,7 @@ split으로 문자 하나씩 잘랐다.
 내가 푼 내용  
 
 ```
-function mySolution(date, arr){
+function mySolution(str){
     let answer="";
     let arr = str.split("");
 
@@ -53,7 +53,7 @@ function mySolution(date, arr){
 정답코드를 보자...!   
 
 ```  
-function solution(date, arr){
+function solution(str){
     let answer="";
     for(let x of str){
         if(x=='A') answer+='#';

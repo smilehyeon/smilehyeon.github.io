@@ -1,6 +1,6 @@
 ---
-title : "자바스크립트 알고리즘 문제풀이 - 6"
-excerpt : "홀수"
+title : "자바스크립트 알고리즘 문제풀이 - 7"
+excerpt : "10부제"
 categories : 
     - codingTest
 tags : 

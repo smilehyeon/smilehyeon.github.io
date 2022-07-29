@@ -1,6 +1,6 @@
 ---
-title : "자바스크립트 알고리즘 문제풀이 - 6"
-excerpt : "홀수"
+title : "자바스크립트 알고리즘 문제풀이 - 8"
+excerpt : "일곱난쟁이"
 categories : 
     - codingTest
 tags : 
@@ -38,7 +38,7 @@ Lst's GO...!
 내가 푼 내용  
 
 ```
-function mySolution(date, arr){
+function mySolution(arr){
     let arr2 = [];
     let answer = [];
     let sum=0;
@@ -73,7 +73,7 @@ function mySolution(date, arr){
 정답코드를 보자...!   
 
 ```  
-function solution(date, arr){
+function solution(arr){
     let answer=arr;
     let sum=answer.reduce((a, b)=>a+b, 0);
     for(let i=0; i<8; i++){
