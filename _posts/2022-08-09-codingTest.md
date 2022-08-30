@@ -1,6 +1,6 @@
 ---
 title : "프로그래머스 level1 - 2 (스택/큐)"
-excerpt : "같은 숫자는 싫어"
+excerpt : "같은 숫자는 싫어.."
 categories : 
     - codingTest
 tags : 
@@ -10,7 +10,7 @@ tags :
 
 <br><br> 
 
-프로그래머스에 있는 레벨별 문제도 하나씩 풀어보기로 했다 ㅎㅎ   
+프로그래머스에 있는 레벨별 문제도 하나씩 풀어보기로 했다 ㅎㅎgg    
 
 ---
 [문제설명 클릭](https://school.programmers.co.kr/learn/courses/30/lessons/12906)  
